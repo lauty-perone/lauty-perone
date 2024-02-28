@@ -41,6 +41,7 @@
 
 ###
 
-<p align="left">Actualmente soy estudiante en Analista Programador Universitario en la Universidad Nacional de La Plata.</p>
+<p align="left">Actualmente soy estudiante en Analista Programador Universitario en la Universidad Nacional de La Plata.
+Hago proyectos para tener de portafolio. Me quiero especializar en el entorno del Backend utilizando librerias como FastAPI</p>
 
 ###
