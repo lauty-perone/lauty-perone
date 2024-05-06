@@ -42,9 +42,7 @@
 ###
 
 <p align="left">Actualmente soy estudiante en Analista Programador Universitario en la Universidad Nacional de La Plata.</p>
-<p align="left"> Hago proyectos para tener de portafolio. Me quiero especializar en el entorno del Backend utilizando librerias de Python principalmente como FastAPI.</p>
-<p aligin="left">He estado utilizando Bases de Datos SQL como MySQL con el orm SQLAlchemy y NoSQL como MongoDB.Ademas hice un chat en tiempo real utilizando WebSockets.</p>
-<p aligin="left"> De a poco estoy implementando herramientas como el entorno virtual de Anaconda y Docker.</p>
+<p align="left"> Hago proyectos para tener de portafolio. Me quiero especializar en el entorno del Backend utilizando librerias de Python.</p>
 <p algin="left"> Soy estudiante y anhelo a tener algún trabajo para poder aumentar mi experiencia con casos de la vida real.</p>
 
 ###
