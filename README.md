@@ -42,7 +42,7 @@
 ###
 
 <p align="left">Actualmente soy estudiante en Analista Programador Universitario en la Universidad Nacional de La Plata.</p>
-<p align="left"> Hago proyectos para tener de portafolio. Me quiero especializar en el entorno del Backend utilizando librerias de Python.</p>
+<p align="left"> Me quiero especializar en el entorno del Análisis de Datos utilizando librerias de Python.</p>
 <p algin="left"> Soy estudiante y anhelo a tener algún trabajo para poder aumentar mi experiencia con casos de la vida real.</p>
 
 ###
