@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lautaro Perone and I'm a Data Anlyst, from Argentina.</h2>
+<h2 align="left">Hi 👋! My name is Lautaro Perone and I'm a Developer, from Argentina.</h2>
 
 ###
 
