@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Lautaro Perone and I'm a Developer, from Argentina.</h2>
+<h2 align="left">Hola, mi nombre es Lautaro Perone y soy desarrollador de software</h2>
 
 ###
 
@@ -42,7 +42,8 @@
 ###
 
 <p align="left">Actualmente soy estudiante en Analista Programador Universitario en la Universidad Nacional de La Plata.</p>
-<p align="left"> Me quiero especializar en el entorno del Análisis de Datos utilizando librerias de Python.</p>
-<p algin="left"> Soy estudiante y anhelo a tener algún trabajo para poder aumentar mi experiencia con casos de la vida real.</p>
+<p align="left">Además trabajo hace más de un año como Desarrollador de Software con tecnológias como .NET y Angular </p>
+<p algin="left"> El hecho de tener un empleo, aumento mis habilidades profesionales y comunicativas</p>
+
 
 ###
